@@ -1,0 +1,14 @@
+
+input{
+    margin: 8px;
+    font-size: 2rem;
+}
+button{
+    font-size: 32px;
+    width: 64px;
+    margin: 16px;
+    padding: 16px;
+}
+.resetButton{
+    width: 200px;
+}
